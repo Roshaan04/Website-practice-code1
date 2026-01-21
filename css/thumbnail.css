@@ -1,0 +1,212 @@
+body {
+      background: linear-gradient(
+    to bottom,
+    #ffffff 0%,
+    #f3f3f3 50%,
+    #eeeeee 100%
+  );
+    
+  }
+.logoside{
+  display: inline-block;
+  width:400px;
+  margin: 0;
+  padding: 0;
+  margin-left:10px;
+}
+.mobilepic{
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+.catchub{
+  width:200px;
+  margin-left: 25px;
+  border: 0;
+  height:92px;
+}
+.logo{
+  width:200px;
+  object-fit: contain;
+}
+.para{
+  font-family: Arial;
+  margin:0;
+}
+.para1{
+  font-weight: bold;
+  font-size: 18px;
+  margin:0;
+  letter-spacing: 3px;
+  color: rgba(1, 1, 1, 0.763);
+  margin-bottom: 6px;
+}
+.para2{
+ color: rgb(118, 113, 113);
+ margin: 0;
+ font-size: 14px;
+ margin-bottom: 40px;
+ margin-left:33px;
+}
+
+.play{
+ padding: 0;
+  border:0;
+  margin: 0;
+  width: 150px;
+}
+.app{
+ padding: 0;
+  border:0;
+  margin: 0;
+  width: 150px;
+  height:60px;
+  object-fit: contain;
+ vertical-align: top;
+
+}
+.andriod{
+  padding: 0;
+  border:0;
+  margin: 0;
+  width: 150px;
+  height: 55px;
+  cursor: pointer;
+  background-color: white;
+  vertical-align: top;
+}
+.mac{
+  padding: 0;
+  border:0;
+  margin: 0;
+  border-color: white;
+  width: 150px;
+  height: 55px;
+  cursor: pointer;
+  margin-left: 10px;
+  background-color: white;
+  vertical-align: top; 
+
+}
+.top{
+  width:310px;   
+  height:300px; 
+  object-fit:cover;
+}
+.second{
+  margin-top: 15px;
+  width:750px;
+}
+.picside{
+  width:300px;
+  display: inline-block;
+}
+.call{
+  width:300px;
+  height:280px;
+  margin-left:15px;
+  padding-left: 25px;
+  object-fit: cover;
+}
+.channel{
+   width:420px;
+   height: 200px;
+   padding-top: 15px;
+   padding-left:25px;
+   text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial;
+  box-sizing: border-box;
+}
+.p1{
+  font-weight: bold;
+  letter-spacing: 3px;
+  color: rgba(1, 1, 1, 0.763);
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+.p2{
+   color: rgb(118, 113, 113);
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.p3,.p4{
+   color: rgb(118, 113, 113);
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 0;
+  border:0;
+}
+.third{
+  width:750px;
+}
+.messages{
+  padding-top: 100px;
+  width:300px;
+  height: 200px;
+  padding-left:25px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial;
+  box-sizing: border-box;
+}
+.phone{
+  width:300px;
+  height:280px;
+  margin-left:15px;
+  padding-left: 25px;
+  vertical-align: top;
+  object-fit: cover;
+}
+.screen{
+  width:300px;
+  height:400px;
+  margin-left:15px;
+  padding-left: 25px;
+  object-fit: cover;
+}
+
+.future{
+  padding-top: 150px;
+  width:300px;
+  height: 200px;
+  padding-left:25px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial;
+  padding-left: 60px;
+  box-sizing: border-box;
+}
+.vector{
+ width:250px;
+ height:50px;
+ object-fit: contain;
+ 
+}
+.p5{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  color: rgba(1, 1, 1, 0.763);
+}
+.last{
+  vertical-align: middle;
+  box-sizing: border-box;
+  padding-left: 230px;
+}
+span{
+  color: rgba(40, 136, 246, 0.562);
+}
+.pera{
+ width: 450px;
+ height: 100px;
+ padding-left: 300px;
+ padding-top: 10px;
+ object-fit: contain;
+ box-sizing: border-box;
+}
